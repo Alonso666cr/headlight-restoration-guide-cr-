@@ -52,7 +52,7 @@ comparativo directo de productos disponibles en el país.
 
 | Archivo | Descripción |
 |---|---|
-| `Guia_Restauracion_Faros_CR.docx` | Guía completa en formato Word (compatible con LibreOffice) |
+| `Guia_Restauracion_Faros_CR.pdf` | Guía completa en formato Word (compatible con LibreOffice) |
 | `README.md` | Este archivo |
 
 ---
