@@ -69,5 +69,7 @@ y precio directamente con el proveedor antes de comprar.
 ## Licencia
 
 © 2026 Andrés Cervantes Torres. Todos los derechos reservados.
+
 https://www.linkedin.com/in/andres-cervantes-torres/
+
 Se permite la distribución con atribución al autor original.
